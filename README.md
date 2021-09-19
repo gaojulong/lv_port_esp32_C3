@@ -10,6 +10,7 @@
 | SPI_MOSI | 7    | 主机输出从机输入       
 ![示例](./images/vscode/IMG_6019.jpg)
 
+
 This is an ESP32 demo project showcasing LVGL v7 with support for several display controllers and touch controllers.
 The demo application is the `lv_demo_widgets` project from the [lv_examples](https://github.com/lvgl/lv_examples) repository.
 
