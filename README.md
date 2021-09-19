@@ -1,6 +1,6 @@
 # LVGL project for ESP32
 
-# 添加ESP32-C3的支持，当为ESP32-C3时配置选项中SPI只能选择CONFIG_LV_TFT_DISPLAY_SPI_SPI2_HOST
+## 添加ESP32-C3的支持，当为ESP32-C3时配置选项中SPI只能选择CONFIG_LV_TFT_DISPLAY_SPI_SPI2_HOST
 | ESP32    | LCD  | 说明                                        |
 | -------- | ---- | ------------------------------------------- |
 | REST     | 18   | 上电后必须进行复位                          |
@@ -20,7 +20,7 @@ The demo application is the `lv_demo_widgets` project from the [lv_examples](htt
 
 #### Table of content
 - [LVGL project for ESP32](#lvgl-project-for-esp32)
-- [添加ESP32-C3的支持，当为ESP32-C3时配置选项中SPI只能选择CONFIG_LV_TFT_DISPLAY_SPI_SPI2_HOST](#添加esp32-c3的支持当为esp32-c3时配置选项中spi只能选择config_lv_tft_display_spi_spi2_host)
+  - [添加ESP32-C3的支持，当为ESP32-C3时配置选项中SPI只能选择CONFIG_LV_TFT_DISPLAY_SPI_SPI2_HOST](#添加esp32-c3的支持当为esp32-c3时配置选项中spi只能选择config_lv_tft_display_spi_spi2_host)
       - [Table of content](#table-of-content)
   - [Display and touch controllers](#display-and-touch-controllers)
   - [Get started](#get-started)
