@@ -7,7 +7,8 @@
 | SPI_CS   | 10   | 当片选信号为"L"时，数据/指令 I/O 口使能。   |
 | SPI_CLK  | 6    | SPI时钟                                     |
 | SPI_DC   | 9    | 指令/数据 选择端口:“H” : 数据 ;“L” : 指令。 |
-| SPI_MOSI | 7    | 主机输出从机输入       
+| SPI_MOSI | 7    | 主机输出从机输入         
+
 ![示例](./images/vscode/IMG_6019.jpg)
 
 
