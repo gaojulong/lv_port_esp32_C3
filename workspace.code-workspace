@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../blink"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio_ll.h": "c"
+		}
+	}
+}
